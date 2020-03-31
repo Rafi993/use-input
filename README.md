@@ -1,4 +1,4 @@
-### use-input
+## useInput
 
 Simple hook to avoid re-writting onChange handler for input again and again..
 
